@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015 AIMIA. All rights reserved.
+  -->
+
+<resources>
+
+    <!--
+     Per the design guidelines, navigation drawers should be between 240dp and 320dp:
+     https://developer.android.com/design/patterns/navigation-drawer.html
+    -->
+    <dimen name="navigation_drawer_width">240dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="navigation_drawer_list_item_text_size">21sp</dimen>
+    <dimen name="card_heading">21sp</dimen>
+    <dimen name="card_heading_name">33sp</dimen>
+    <dimen name="navigation_drawer_list_item_logout_text_size">18sp</dimen>
+    <dimen name="offer_description_text">18sp</dimen>
+    <dimen name="popup_card_point_text">17sp</dimen>
+    <dimen name="offer_description_header_text">17sp</dimen>
+    <dimen name="button_activate_offer_text_size">18sp</dimen>
+    <dimen name="actionbar_card_image">48dp</dimen>
+    <dimen name="actionbar_avtar_image">50dp</dimen>
+    <dimen name="actionbar_title_size">16sp</dimen>
+
+    <dimen name="navigation_drawer_user_name">23sp</dimen>
+    <dimen name="navigation_drawer_user_level">17sp</dimen>
+
+    <!-- Profile  Dimensions     -->
+    <dimen name="profile_list_content">19sp</dimen>
+    <dimen name="profile_list_row_height">60dp</dimen>
+    <dimen name="profile_about_me_countries_margin">5dp</dimen>
+    <dimen name="profile_my_points_text_size">33sp</dimen>
+
+    <!-- Profile statement Dimensions     -->
+    <dimen name="profile_statement_date">15sp</dimen>
+    <dimen name="profile_statement_general">16sp</dimen>
+    <dimen name="profile_statement_recent_trans_header">18sp</dimen>
+    <dimen name="profile_statement_empty_text_size">20sp</dimen>
+    <dimen name="profile_statement_date_year_margin">5dp</dimen>
+    <dimen name="profile_statement_row_height">50dp</dimen>
+
+    <!-- offer Dimensions -->
+    <dimen name="offer_desc_actionbar">15dp</dimen>
+    <dimen name="offer_barcode_name_size">21sp</dimen>
+    <dimen name="offer_barcode_number_points_size">18sp</dimen>
+    <dimen name="offer_barcode_number_size">31sp</dimen>
+
+    <!-- Rewards Dimensions -->
+    <dimen name="reward_category_desc">28sp</dimen>
+    <dimen name="reward_category_name">17sp</dimen>
+    <dimen name="reward_category_name_text_size">16sp</dimen>
+    <dimen name="reward_name_text_size">40sp</dimen>
+    <dimen name="reward_points_text_size">31sp</dimen>
+    <dimen name="reward_points_size">22sp</dimen>
+    <dimen name="reward_circle_indicator_padding_bottom">20dp</dimen>
+    <dimen name="reward_circle_indicator_padding_left">15dp</dimen>
+    <dimen name="reward_basket_icon_right_margin">10dp</dimen>
+
+    <dimen name="reward_description_text_padding_left_right">10dp</dimen>
+    <dimen name="reward_description_heading_text_size">16sp</dimen>
+    <dimen name="reward_description_text_size">13sp</dimen>
+    <dimen name="reward_category_name_squeeze_text_size">13sp</dimen>
+    <dimen name="reward_name_squeeze_text_size">20sp</dimen>
+    <dimen name="reward_points_squeeze_text_size">13sp</dimen>
+    <dimen name="reward_layout_squeezed_left_margin">10dp</dimen>
+    <dimen name="get_reward_btn_text_size">23sp</dimen>
+    <dimen name="offer_earn_text_size">18sp</dimen>
+    <dimen name="offer_points_text_size">13sp</dimen>
+
+    <!-- basket Dimensions -->
+    <dimen name="reward_name_basket_text_size">20sp</dimen>
+    <dimen name="reward_points_basket_text_size">13sp</dimen>
+    <dimen name="reward_layout_basket_left_margin">10dp</dimen>
+    <dimen name="basket_empty_text_size">25sp</dimen>
+    <dimen name="basket_empty_desc_text_size">18sp</dimen>
+    <dimen name="basket_description_padding">20dp</dimen>
+    <dimen name="review_order_you_have_text_size">22sp</dimen>
+    <dimen name="review_order_points_text_size">33sp</dimen>
+    <dimen name="review_order_points_pts_text_size">22sp</dimen>
+
+    <!-- splash Dimensions -->
+    <dimen name="splash_log_margin_top">80dp</dimen>
+    <dimen name="splash_button_text_size">19sp</dimen>
+    <dimen name="splash_text_indicator_heading_text_size">18sp</dimen>
+    <dimen name="splash_text_indicator_text_size">14sp</dimen>
+    <dimen name="splash_card_button_text_size">23sp</dimen>
+    <dimen name="splash_email_button_text_size">23sp</dimen>
+    <dimen name="splash_cancel_button_text_size">23sp</dimen>
+
+
+    <dimen name="edit_text_padding">50dp</dimen>
+    <dimen name="button_padding">16dp</dimen>
+    <dimen name="button_margin_top">35dp</dimen>
+    <dimen name="button_text_size_all">23sp</dimen>
+    <dimen name="login_hint_text_size">17sp</dimen>
+    <dimen name="login_link_text_size">17sp</dimen>
+
+    <dimen name="offer_description_earn_padding">10dp</dimen>
+    <dimen name="offer_description_earn_padding_image">4dp</dimen>
+    <dimen name="offer_description_padding_top">10dp</dimen>
+    <dimen name="offer_description_text_padding_top">10dp</dimen>
+    <dimen name="offer_description_text_padding_bottom">5dp</dimen>
+
+    <dimen name="contact_fragment_text_size">18sp</dimen>
+    <dimen name="checkout_quantity_text_size">19sp</dimen>
+    <dimen name="checkout_quantity_layout_height">61dp</dimen>
+    <dimen name="checkout_points_basket_text_size">27sp</dimen>
+    <dimen name="checkout_points_text_size">20sp</dimen>
+
+    <dimen name="preferences_about_header">19sp</dimen>
+    <dimen name="preferences_about_text">18sp</dimen>
+    <dimen name="preferences_faq_text">16sp</dimen>
+
+    <dimen name="bottom_layout_height">250dp</dimen>
+    <dimen name="navigation_counter_text_size">12sp</dimen>
+    <dimen name="offline_data_message">20sp</dimen>
+
+    <dimen name="my_progress_title_heading">16sp</dimen>
+
+    <dimen name="earning_code_header_text_size">21sp</dimen>
+    <dimen name="earning_code_button_text_size">23sp</dimen>
+    <dimen name="earning_code_hint_text_size">20sp</dimen>
+
+    <dimen name="profile_picture_user_name_text_size">30sp</dimen>
+
+    <!-- Search -->
+    <dimen name="actionbar_padding_right">15dp</dimen>
+    <dimen name="timings_text">17sp</dimen>
+    <dimen name="timings_text_padding_top">-2dp</dimen>
+</resources>

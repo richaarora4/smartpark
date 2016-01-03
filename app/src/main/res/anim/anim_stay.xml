@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015 AIMIA. All rights reserved.
+  -->
+
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/linear_interpolator">
+    <!-- <translate
+        android:fromXDelta="0"
+        android:toXDelta="100%p"
+        android:duration="500"
+        android:repeatCount="1"
+        android:repeatMode="reverse"/> -->
+        
+    <!-- <translate
+    android:fromXDelta="-400%"
+    android:toXDelta="0%"
+    android:fromYDelta="400%"
+    android:toYDelta="0%"
+    android:duration="2500"/>
+ -->
+    
+    <translate 
+	android:fromYDelta="0%p"
+	android:toYDelta="0%p"
+	android:duration="500"/>
+    
+    
+	<!-- <alpha
+    android:fromAlpha="0.0"
+    android:toAlpha="1.0"
+    android:duration="3000" /> -->
+</set>

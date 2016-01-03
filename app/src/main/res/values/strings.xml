@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Smart Park</string>
+
+    <string name="hello_world">Make a Gesture
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_landing">LandingActivity</string>
+    <string name="title_activity_slots">SlotsActivity</string>
+    <string name="title_activity_take_me_there">TakeMeThereActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_arrived">ArrivedActivity</string>
+    <string name="title_activity_expiry">ExpiryActivity</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>

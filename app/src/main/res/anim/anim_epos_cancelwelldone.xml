@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015 AIMIA. All rights reserved.
+  -->
+
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillAfter="true"
+    android:interpolator="@android:anim/linear_interpolator">
+
+    <translate
+        android:duration="800"
+        android:fromYDelta="-80%p"
+        android:toYDelta="0%p"
+        android:startOffset="300"/>
+</set>
